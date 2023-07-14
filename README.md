@@ -1,6 +1,13 @@
 # CodeCon-Team-17
-<br>Team Details
+<br>Team Details:
+TEAM SOUL
+Members: Pranavi N
+         Mamatha V
+         Raviteja S
+         Srinith 
+         Pallavi V
 Inspiration <br>
+
 What it does <br>
 How we built it <br>
 Challenges we ran into <br>
