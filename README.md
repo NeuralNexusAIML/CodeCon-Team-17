@@ -11,14 +11,19 @@ All our team members have come together to go for this project aiming to learn m
 
 What it does <br>
 we have a website where the basic frontend is used to make it look clear to convey what it is.And then we have a chatbot there which is the main part of the website that answers the questions related to CBIT.<br>
+
 How we built it <br>
 We have used Dialogflow based chatbot using nlp deployed into a wbsite.<br>
+
 Challenges we ran into <br>
-Since this is the first time everyone of us were working with this kind of environment, it was very challenging to learn and procced for evry step.
+Since this is the first time everyone of us were working with this kind of environment, it was very challenging to learn and procced for evry step.<br>
+
 Accomplishments that we're proud of <br>
-The output resulted made us proud since we have obviously learnt something new and make a visually good looking output.
+The output resulted made us proud since we have obviously learnt something new and make a visually good looking output.<br>
+
 What we learned <br>
-Using Dialogflow and making a chatbot based on nlp.We have also learnt basic php to create a minimal frontend website.
+Using Dialogflow and making a chatbot based on nlp.We have also learnt basic php to create a minimal frontend website.<br>
+
 Built With <br>
 Dialogflow using nlp.
 A frontend website using php(html&css).
